@@ -6,9 +6,23 @@
 Sphinx tutorial!
 ================================
 
+Section1
+========
+
+section 1 explanation::
+
+   print('hello world')
+   >>hello world
+
+Guide
+^^^^^
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   license
+   help
 
 
 
