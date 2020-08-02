@@ -18,7 +18,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'test'
+project = 'Compliance Marketplace'
 copyright = '2020, alexandre paes'
 author = 'alexandre paes'
 
@@ -56,3 +56,20 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+html_theme_options = {
+    # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
+    'canonical_url': '',
+    'display_version': True,
+    'logo_only': False,
+    'prev_next_buttons_location': 'both',
+    'style_external_links': False,
+    # 'style_nav_header_background': 'black',
+    # 'vcs_pageview_mode': 'view',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': -1,
+    'includehidden': True,
+    'titles_only': False
+}

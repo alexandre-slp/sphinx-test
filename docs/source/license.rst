@@ -1,7 +1,0 @@
-License
-=======
-blablabla
-
-Contact
-=======
-blablalba

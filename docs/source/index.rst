@@ -1,33 +1,12 @@
-.. test documentation master file, created by
-   sphinx-quickstart on Sun Jul 26 22:48:53 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Cylon Bots
+**********
 
-Sphinx tutorial!
-================================
-
-Section1
-========
-
-section 1 explanation::
-
-   print('hello world')
-   >>hello world
-
-Guide
-^^^^^
+Os Cylons são robôs que executam determinadas tarefas em nossa arquitetura.
+Eles podem ser Cloud Functions, Microsserviços ou até mesmo DAGs no Airflow.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Cylons
 
-   license
-   help
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   cylons/image_scan
+   cylons/xpto
