@@ -8,5 +8,5 @@ Eles podem ser Cloud Functions, Microsserviços ou até mesmo DAGs no Airflow.
    :maxdepth: 1
    :caption: Cylons
 
-   cylons/image_scan
-   cylons/xpto
+   cylons/c1
+   cylons/c2

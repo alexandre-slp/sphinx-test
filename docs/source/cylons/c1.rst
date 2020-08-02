@@ -1,0 +1,16 @@
+Cylon 1
+================
+
+Arquitetura
+-----------
+.. figure:: ../_static/images/cylons/image_scan/cylon.png
+    :target: ../_static/images/cylons/image_scan/cylon.png
+    :scale: 50
+    :align: center
+    :alt: Diagrama
+
+Este Cylon consome de um Pub/Sub e cria um papapa...
+
+Objetivo
+--------
+Este Cylon tem o objetivo de ...

@@ -1,28 +1,16 @@
-Cylon Image Scan
+Cylon 2
 ================
 
 Arquitetura
 -----------
-
-
 .. figure:: ../_static/images/cylons/image_scan/cylon.png
     :target: ../_static/images/cylons/image_scan/cylon.png
+    :scale: 50
     :align: center
     :alt: Diagrama
 
+Este Cylon consome de um Pub/Sub e cria um papapa...
 
-
-Sub Sub Chapter 1
-^^^^^^^^^^^^^^^^^
-
-Sub Sub Chapter 2
-^^^^^^^^^^^^^^^^^
-
-Sub Chapter 2
--------------
-
-Sub Sub Chapter 1
-^^^^^^^^^^^^^^^^^
-
-Sub Sub Chapter 2
-^^^^^^^^^^^^^^^^^
+Objetivo
+--------
+Este Cylon tem o objetivo de ...
