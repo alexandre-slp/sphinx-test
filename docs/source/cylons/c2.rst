@@ -5,12 +5,18 @@ Arquitetura
 -----------
 .. figure:: ../_static/images/cylons/image_scan/cylon.png
     :target: ../_static/images/cylons/image_scan/cylon.png
-    :scale: 50
+    :scale: 70
     :align: center
-    :alt: Diagrama
+    :alt: Cylon
 
 Este Cylon consome de um Pub/Sub e cria um papapa...
 
 Objetivo
 --------
 Este Cylon tem o objetivo de ...
+
+.. figure:: ../_static/images/cylons/image_scan/nic.png
+    :target: ../_static/images/cylons/image_scan/nic.png
+    :scale: 30
+    :align: center
+    :alt: Nic
